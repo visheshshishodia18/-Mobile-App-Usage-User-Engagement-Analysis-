@@ -1,4 +1,10 @@
- 
+# Name-Vishesh
+# Admission NO -2026B02310075
+#github-https://github.com/visheshshishodia18/-Mobile-App-Usage-User-Engagement-Analysis-
+#Roll No- 63
+#Project name- Mobile App Usage User Engagement Analysis
+
+
 import pandas as pd
 
 print("=" * 50)
